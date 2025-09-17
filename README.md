@@ -43,17 +43,15 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
-- I learned how to use Flexbox and CSS Grid.
+- I learned how to use CSS Flexbox.
 
 ### Continued development
 
-- I will continue to improve my knowledge of Flexbox and CSS Grid.
+- I will continue to improve my knowledge of CSS Flexbox.
 
 ### Useful resources
 
 - [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes) - This helped me for know how to use Flexbox.
-- [MDN CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Using_CSS_grid_layout) - This helped me for know how to use CSS Grid.
