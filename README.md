@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](https://github.com/PierreLogs/blog-preview-card/blob/main/design/desktop-design.jpg)
 
 ### Links
 
